@@ -6,7 +6,7 @@ Feel free to use and distribute these cheat sheets as you see fit, so long as yo
 
 ### Let me know what else you would like to see
 
-If you would like more cheat sheets, let me know in the [discussions](https://github.com/dfinke/PowerShellCheatSheets/discussions).
+If you would like additional cheat sheets, please let me know which ones in the [discussion](https://github.com/dfinke/PowerShellCheatSheets/discussions) forum.
 
 ### Cheat Sheets
 
